@@ -81,12 +81,12 @@ audio {
     width: 100%;
     max-width: 100%;
     height: auto;
-    max-height: 3000px;
     object-fit: cover;
     display: block;
     background-color: transparent;
     object-position: top;
     margin: 0 auto;
+}
 
 
 .separator {
